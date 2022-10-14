@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>First Deployed Site</h1>
       <h2> my new update </h2>
+      <h3>Making changes on the new branch</h3>
     </div>
   );
 }
